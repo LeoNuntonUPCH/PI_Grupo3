@@ -1,0 +1,139 @@
+# ❗ Problema
+
+El riego de plantas en entornos domésticos y pequeños sistemas agrícolas se realiza generalmente de manera manual o mediante temporizadores fijos, lo cual no considera ni el estado real del suelo ni las condiciones climáticas futuras. Esta limitación provoca un uso ineficiente del agua, generando tanto exceso como déficit de riego.
+
+Además, los sistemas tradicionales no integran información externa como la probabilidad de lluvia, lo que impide una toma de decisiones optimizada basada en datos reales y predictivos.
+
+---
+
+# 👥 ¿Para quién es un problema?
+
+Este problema afecta principalmente a:
+
+- Personas con jardines domésticos  
+- Pequeños agricultores  
+- Encargados de viveros  
+- Instituciones educativas con áreas verdes  
+
+Asimismo, impacta indirectamente a:
+
+- Entidades ambientales  
+- Organismos que promueven el uso sostenible del agua  
+
+Estos grupos dependen de sistemas de riego eficientes para mantener cultivos saludables y optimizar recursos hídricos.
+
+---
+
+# 🌐 ¿Por qué es un problema?
+
+Es un problema porque el agua es un recurso limitado y su uso ineficiente contribuye a su desperdicio. En sistemas tradicionales:
+
+- Se riega sin considerar la humedad real del suelo  
+- No se toma en cuenta la probabilidad de lluvia  
+- Se generan pérdidas de agua por sobre-riego  
+- Se afecta el desarrollo de las plantas  
+
+Desde el punto de vista técnico, la falta de integración entre sensores y datos climáticos limita la capacidad de automatización inteligente, lo que reduce la eficiencia del sistema.
+
+---
+
+# ⏱️ ¿Cuándo y cómo es un problema?
+
+Este problema ocurre principalmente cuando:
+
+- Se riega en momentos innecesarios (por ejemplo, antes de una lluvia)  
+- El suelo ya tiene suficiente humedad, pero el sistema sigue regando  
+- No existe monitoreo en tiempo real  
+- No se consideran variables ambientales externas  
+
+Se manifiesta en sistemas que funcionan bajo lógica fija o manual, sin capacidad de adaptación ni predicción.
+
+---
+
+# ⚠️ ¿Qué consecuencias tiene si no se resuelve?
+
+## 🌱 Ambientales
+- Desperdicio de agua potable  
+- Uso ineficiente de recursos naturales  
+- Aumento de la huella hídrica  
+
+## 🌿 Agrícolas
+- Estrés hídrico en plantas  
+- Crecimiento deficiente  
+- Posible pérdida de cultivos  
+
+## 💰 Económicas
+- Incremento en costos de consumo de agua  
+- Ineficiencia en sistemas de producción  
+
+## 🔬 Tecnológicas
+- Limitación en el desarrollo de sistemas inteligentes  
+- Baja adopción de soluciones automatizadas avanzadas  
+
+---
+
+# 🧪 Parámetros
+
+Para abordar el problema, se consideran los siguientes parámetros clave:
+
+- **Humedad del suelo (%)**: indicador directo de la necesidad de riego  
+- **Probabilidad de lluvia (%)**: permite anticipar eventos climáticos  
+- **Condiciones ambientales (opcional)**: temperatura, humedad relativa  
+
+Estos parámetros permiten construir una lógica de decisión más precisa y eficiente.
+
+---
+
+# 💡 Solución Propuesta
+
+Se propone el desarrollo de un **sistema de riego inteligente automatizado con capacidad predictiva**, que combine:
+
+- Sensor de humedad del suelo  
+- Conectividad a internet  
+- Consulta de datos climáticos mediante API  
+- Algoritmo de decisión inteligente  
+
+## 🔄 Lógica del sistema
+
+- Si la humedad del suelo es baja (**< 40%**) y no se espera lluvia (**< 80%**) → **Se activa el riego**  
+- Si la humedad es baja pero hay alta probabilidad de lluvia (**≥ 80%**) → **No se riega**  
+
+Esto permite optimizar el uso del agua y mejorar la eficiencia del sistema.
+
+---
+
+# 🧰 Requisitos del Dispositivo
+
+- Sensor de humedad del suelo  
+- Microcontrolador (Arduino, ESP32, etc.)  
+- Módulo de comunicación (WiFi)  
+- Bomba de agua  
+- Fuente de alimentación  
+- Interfaz de usuario (LED o pantalla)  
+- Acceso a API climática  
+
+---
+
+# 🎯 Público Objetivo
+
+El sistema está dirigido a:
+
+- Usuarios domésticos con jardines  
+- Pequeños productores agrícolas  
+- Viveros  
+- Instituciones educativas  
+- Proyectos de sostenibilidad ambiental  
+
+---
+
+# 📚 Referencias bibliográficas (APA 7 – SOLO PAPERS)
+
+Allen, R. G., Pereira, L. S., Raes, D., & Smith, M. (1998). *Crop evapotranspiration: Guidelines for computing crop water requirements*. FAO.  
+
+Jones, H. G. (2004). Irrigation scheduling: Advantages and pitfalls of plant-based methods. *Journal of Experimental Botany, 55*(407), 2427–2436. https://doi.org/10.1093/jxb/erh213  
+
+Kim, Y., Evans, R. G., & Iversen, W. M. (2008). Remote sensing and control of an irrigation system using a distributed wireless sensor network. *IEEE Transactions on Instrumentation and Measurement, 57*(7), 1379–1387. https://doi.org/10.1109/TIM.2008.917198  
+
+O’Shaughnessy, S. A., & Evett, S. R. (2010). Canopy temperature-based system effectively schedules and controls center pivot irrigation. *Agricultural Water Management, 97*(9), 1310–1316. https://doi.org/10.1016/j.agwat.2010.03.012  
+
+Zotarelli, L., Dukes, M. D., & Morgan, K. T. (2010). *Interpretation of soil moisture content to determine irrigation water requirements*. University of Florida IFAS Extension.
