@@ -124,8 +124,9 @@ Desarrollo de un sistema de riego inteligente automatizado con:
 ```text
 Si humedad < 40% y lluvia < 80% → Regar
 Si humedad < 40% y lluvia ≥ 80% → No regar
+```
 
-## ✔️ Resultado
+### ✔️ Resultado
 
 - Ahorro de agua  
 - Mayor eficiencia  
