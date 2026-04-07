@@ -130,7 +130,6 @@ Basado en el documento:
 - Proyectos de agricultura sostenible  
 - Instituciones académicas y de investigación  
   
-Pequeños agricultores que buscan mejorar productividad con bajo costo (≤ S/500 según estimación del proyecto)
 
 ---
 
