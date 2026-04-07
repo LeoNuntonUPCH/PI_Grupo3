@@ -29,7 +29,7 @@
 ## ⚠️ Definición del problema
 En muchos sistemas agrícolas, especialmente en zonas rurales, el riego se realiza de manera manual o con métodos tradicionales, lo que genera una **distribución ineficiente del agua**, falta de control sobre variables del suelo y un uso inadecuado de recursos.
 
-El documento describe la necesidad de un sistema que **controle el riego en función de variables como humedad, temperatura, pH y evapotranspiración**, lo cual actualmente no se gestiona adecuadamente en muchos cultivos.
+El proyecto ve la necesidad de un sistema que **controle el riego en función de variables como humedad, temperatura, pH y evapotranspiración**, lo cual actualmente no se gestiona adecuadamente en muchos cultivos.
 
 ---
 
@@ -71,9 +71,6 @@ Se manifiesta como:
 - Riego desigual en diferentes zonas del cultivo  
 - Falta de precisión en la cantidad de agua (L/día) aplicada  
 
-📍 *Imagen sugerida aquí:*  
-👉 Comparación entre riego tradicional vs riego automatizado.
-
 ---
 
 ## 🧬 ¿Qué consecuencias tiene si no se resuelve el problema?
@@ -101,8 +98,6 @@ Se propone un **sistema de riego automatizado por gravedad con interpolación es
 
 Este sistema permite una **distribución uniforme y eficiente del agua**, minimizando pérdidas como evaporación o escorrentía.
 
-📍 *Imagen sugerida aquí:*  
-👉 Diagrama del sistema (sensores + microcontrolador + riego).
 
 ---
 
@@ -134,13 +129,12 @@ Basado en el documento:
 - Cooperativas agrícolas  
 - Proyectos de agricultura sostenible  
 - Instituciones académicas y de investigación  
-
-**Segmento clave:**  
+  
 Pequeños agricultores que buscan mejorar productividad con bajo costo (≤ S/500 según estimación del proyecto)
 
 ---
 
-# 📚 Referencias Bibliográficas (APA 7 – solo artículos científicos)
+# 📚 Referencias Bibliográficas 
 
 - Allen, R. G., Pereira, L. S., Raes, D., & Smith, M. (1998). *Crop evapotranspiration—Guidelines for computing crop water requirements*. FAO.  
 - Jones, H. G. (2004). Irrigation scheduling: Advantages and pitfalls of plant-based methods. *Journal of Experimental Botany*, 55(407), 2427–2436.  
@@ -148,13 +142,3 @@ Pequeños agricultores que buscan mejorar productividad con bajo costo (≤ S/50
 - O’Shaughnessy, S. A., & Evett, S. R. (2010). Canopy temperature-based system for regulating irrigation. *Agricultural Water Management*, 98(2), 347–356.  
 - Zhu, X., Li, M., & Wang, X. (2019). Smart irrigation system based on IoT and machine learning. *Computers and Electronics in Agriculture*, 162, 1–10.  
 
----
-
-# 📍 Recomendación sobre imágenes
-Coloca imágenes en:
-
-1. **ODS** → contexto global  
-2. **Definición del problema** → esquema de riego tradicional  
-3. **Cuándo y cómo** → comparación visual  
-4. **Solución propuesta** → diagrama del sistema  
-5. **Requisitos** → esquema técnico (bloques del sistema)  
