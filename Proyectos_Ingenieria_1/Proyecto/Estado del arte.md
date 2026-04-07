@@ -46,7 +46,7 @@ En entornos agrícolas, huertos periurbanos o zonas rurales donde el acceso a la
 El agua desciende a través de una red de tuberías principales y se distribuye capilarmente hacia las líneas de goteo. La regulación del caudal y la frecuencia de irrigación se realizan de forma estrictamente mecánica y manual mediante válvulas de paso. Si bien este método resuelve la dependencia energética, presenta limitaciones operativas severas: exige la presencia física constante de un operador humano para abrir y cerrar las válvulas en horarios específicos, y es altamente susceptible a la obstrucción de los goteros por sedimentos, al carecer de la presión necesaria para sistemas de filtrado avanzados. Además, al no contar con instrumentación, carece por completo de retroalimentación sobre las métricas climáticas o la humedad real del suelo. Esto impide una optimización precisa del recurso hídrico, derivando en riegos innecesarios si, por ejemplo, ocurre una lluvia imprevista.(1)
 
 <div align="center">
-  <img src="URL_DE_TU_IMAGEN_GOTEO_GRAVEDAD.jpg" alt="Riego por goteo con tanque elevado" width="500">
+  <img src="img/tanque.jpg" alt="Riego por goteo con tanque elevado" width="500">
 </div>
 
 ***
@@ -58,7 +58,7 @@ El riego por gravedad superficial, específicamente la variante por surcos, cons
 Para que este sistema sea medianamente funcional, existe una dependencia topográfica crítica: el terreno debe estar nivelado con una pendiente topográfica mínima y uniforme. De lo contrario, el agua se estanca (generando pudrición radicular y asfixia en las plantas) o fluye demasiado rápido (causando erosión y estrés hídrico). Si bien su costo de instrumentación electrónica es nulo, la literatura agronómica señala que este sistema presenta una eficiencia de aplicación hídrica extremadamente deficiente (frecuentemente inferior al 50%). La ausencia de control volumétrico provoca pérdidas masivas de agua por evaporación directa a la atmósfera, escorrentía superficial incontrolada y percolación profunda (el agua se hunde más allá del alcance de las raíces). Adicionalmente, este exceso de agua arrastra los fertilizantes (lixiviación) y fomenta el crecimiento masivo de malezas en toda la superficie húmeda, justificando técnica y ambientalmente la transición hacia sistemas de automatización localizada y predictiva.(2)
 
 <div align="center">
-  <img src="URL_DE_TU_IMAGEN_SURCOS.jpg" alt="Sistema de riego por surcos" width="500">
+  <img src="img/surcos.jpg" alt="Sistema de riego por surcos" width="500">
 </div>
 
 ***
