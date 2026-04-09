@@ -1,4 +1,4 @@
-# [Nombre de tu Proyecto]
+# "Riego automatizado por gravedad e interpolación espacial"
 
 **Curso:** Proyectos de Ingeniería 1  
 **Grupo:** 3  
@@ -20,8 +20,3 @@
 | Sanchez Ticllasuca, Brenda Estefany| Ingeniería Ambiental     | Coordinador  | brenda.sanchez@upch.pe        |
 
 ---
-
-## 📝 Descripción del Proyecto
-
-
-## 📌 Estado del Proyecto
