@@ -111,6 +111,13 @@ Los resultados obtenidos permiten afirmar que las técnicas de regresión son ú
 En general, el modelo logra un equilibrio adecuado entre simplicidad y capacidad predictiva.
 
 ![Gráfico de resultados](https://github.com/LeoNuntonUPCH/PI_Grupo3/blob/main/Proyectos_Ingenieria_1/Talleres/Taller_Machine_Learning/herreraoscar/imagen1.png?raw=true)
+
+### Análisis de residuos
+
+![Gráfico de residuos](https://raw.githubusercontent.com/LeoNuntonUPCH/PI_Grupo3/main/Proyectos_Ingenieria_1/Talleres/Taller_Machine_Learning/herreraoscar/imagen2.png)
+
+![Gráfico de resultados 3](https://raw.githubusercontent.com/LeoNuntonUPCH/PI_Grupo3/main/Proyectos_Ingenieria_1/Talleres/Taller_Machine_Learning/herreraoscar/imagen3.png)
+
 ---
 
 ## Referencias
