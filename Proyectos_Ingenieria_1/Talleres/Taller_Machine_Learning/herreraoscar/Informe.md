@@ -110,6 +110,7 @@ Los resultados obtenidos permiten afirmar que las técnicas de regresión son ú
 
 En general, el modelo logra un equilibrio adecuado entre simplicidad y capacidad predictiva.
 
+![Gráfico de resultados](https://github.com/LeoNuntonUPCH/PI_Grupo3/blob/main/Proyectos_Ingenieria_1/Talleres/Taller_Machine_Learning/herreraoscar/imagen1.png?raw=true)
 ---
 
 ## Referencias
