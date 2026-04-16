@@ -1,4 +1,4 @@
-﻿**Informe Técnico: Predicción de PM10 en Jefferson, Alabama (2022–2024)**  
+##﻿**Informe Técnico: Predicción de PM10 en Jefferson, Alabama (2022–2024)**  
 1. ## **Introducción** 
 El informe documenta el desarrollo para estimar las concentraciones de PM10 en diferentes estaciones de monitoreo de Jefferson, Alabama (Estados Unidos). 
 
