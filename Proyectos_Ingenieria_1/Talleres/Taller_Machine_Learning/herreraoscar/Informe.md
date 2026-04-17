@@ -1,4 +1,4 @@
-Este informe se desarrolla siguiendo la estructura propuesta en la guía del curso :contentReference[oaicite:0]{index=0}, incluyendo...
+Este informe se desarrolla siguiendo la estructura propuesta en la guía del curso , incluyendo...
 
 ## Introducción
 
@@ -6,7 +6,7 @@ El análisis de la calidad del aire es un tema relevante en el ámbito de la ing
 
 El objetivo principal de este trabajo es aplicar técnicas de regresión para modelar y predecir la concentración diaria máxima de NO₂ a partir de variables temporales y geográficas. Para ello, se emplearon datos correspondientes a distintos años, lo que permite observar patrones y comportamientos en el tiempo.
 
-Este informe se desarrolla siguiendo la estructura propuesta en la guía del curso :contentReference[oaicite:0]{index=0}, incluyendo la descripción de la metodología, los resultados obtenidos y una breve discusión de los mismos.
+Este informe se desarrolla siguiendo la estructura propuesta en la guía del curso , incluyendo la descripción de la metodología, los resultados obtenidos y una breve discusión de los mismos.
 
 ---
 
