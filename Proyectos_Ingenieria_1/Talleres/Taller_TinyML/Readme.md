@@ -1,1 +1,0 @@
-#Taller Tiny_ML
