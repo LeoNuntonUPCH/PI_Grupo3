@@ -39,6 +39,9 @@ La presente investigación surge debido a la baja eficiencia hídrica existente 
 3. Automatizar el riego según las condiciones del suelo para optimizar el uso del agua.  
 
 4. Diseñar un sistema de bajo consumo energético para zonas agrícolas con acceso limitado a electricidad.
+
+# Diagrama de Ishikawa
+# Mapa de cliente 
 ## Referencias Bibliográficas (Vancouver)
 
 1. Allen RG, Pereira LS, Raes D, Smith M. Crop evapotranspiration—Guidelines for computing crop water requirements. Rome: FAO; 1998.
