@@ -41,7 +41,9 @@ La presente investigación surge debido a la baja eficiencia hídrica existente 
 4. Diseñar un sistema de bajo consumo energético para zonas agrícolas con acceso limitado a electricidad.
 
 # Diagrama de Ishikawa
+![image alt](https://github.com/LeoNuntonUPCH/PI_Grupo3/blob/c00fc5a518111adc6395e819f831b75012a1cb14/Proyectos_Ingenieria_1/Proyecto/img/file_000000000a84720e9d35de65e5012697.png)
 # Mapa de cliente 
+![image alt](https://github.com/LeoNuntonUPCH/PI_Grupo3/blob/536d94d071e5d6e1ada80b57bc21f2387e6a299f/Proyectos_Ingenieria_1/Proyecto/img/file_00000000df3071fb8d985ba211363eac.png)
 ## Referencias Bibliográficas (Vancouver)
 
 1. Allen RG, Pereira LS, Raes D, Smith M. Crop evapotranspiration—Guidelines for computing crop water requirements. Rome: FAO; 1998.
